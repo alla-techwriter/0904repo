@@ -1,3 +1,7 @@
 commit 1 alla
 today's commit 1 alla
+<<<<<<< HEAD
 todays's commit 44 alla
+=======
+todays's commit 2 alla
+>>>>>>> f221cec17a7998b74ff6c81c20189e748c6e02b4
